@@ -1,0 +1,14 @@
+C:\Users\Skapar\source\repos\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Skapar\source\repos\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Skapar\source\repos\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Skapar\source\repos\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\source\repos\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Skapar\source\repos\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\user\Desktop\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\user\Desktop\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\user\Desktop\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\user\Desktop\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\user\Desktop\Homework\Homework\obj\Debug\Homework.pdb
